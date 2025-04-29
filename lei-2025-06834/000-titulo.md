@@ -1,0 +1,3 @@
+# LEI ORDINÁRIA N.º 6.834, DE 25 DE ABRIL DE 2025.
+ALTERA DISPOSITIVOS DA LEI 5.800, DE 26 DE AGOSTO DE 2022, E DÁ OUTRAS PROVIDÊNCIAS.
+O PREFEITO MUNICIPAL faço saber que a Câmara Municipal decreta e eu sanciono a seguinte Lei:
