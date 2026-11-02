@@ -1,0 +1,9 @@
+{
+  "path": "br-mt-tangara-da-serra",
+  "code": "BR-MT-TANGARA-DA-SERRA",
+  "name": "Tangará da Serra (city)",
+  "level": "municipality",
+  "parent": "br-mt",
+  "repo": "https://github.com/lexifina/brazil-tangara-da-serra-city-law",
+  "build": "built: the law of Tangará da Serra from the Câmara Municipal's SAPL"
+}
