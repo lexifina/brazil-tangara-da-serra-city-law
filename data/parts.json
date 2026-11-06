@@ -37,6 +37,12 @@
     "lei-2025-06788"
    ],
    "sha256": "5f945583a4f3aa19ac8d0eb0908bd820fc23fd5e31d2b68702970696ca69a9d0"
+  },
+  "30-leis-022.json": {
+   "acts": [
+    "lc-2025-00328"
+   ],
+   "sha256": "7f4aaff3b2e9a02a2ded5148b635f938b407a7aef6286eda29407e89f8eddceb"
   }
  },
  "schema": 1

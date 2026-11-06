@@ -112,6 +112,20 @@
      "sha256": "0bbd11c69db2319d510a065da6e65b2891908fd4321674cbc45829f043018f5d"
     }
    ]
+  },
+  {
+   "slug": "lc-2025-00328",
+   "short": "LC 328/2025",
+   "title": "Lei Complementar nº 328, de 23 de janeiro de 2025",
+   "url": "https://sapl.tangaradaserra.mt.leg.br/norma/5",
+   "versions": [
+    {
+     "from": "2025-01-23",
+     "units": 3,
+     "source_url": "https://sapl.tangaradaserra.mt.leg.br/media/sapl/public/normajuridica/2025/5/328_aut_331_plc_02_2025_repristina_dispositivos_da_lei_complementar_n_141_2009.pdf",
+     "sha256": "e78a13da5c36208bbc29350713bcf3421a38f292a2731e2c807d9894c3beaad7"
+    }
+   ]
   }
  ]
 }
