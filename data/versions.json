@@ -28,6 +28,34 @@
      "sha256": "2eed053196c235af5336f1d2cf0a57fda5cc171a1a4fca592a282774ffbd4274"
     }
    ]
+  },
+  {
+   "slug": "lei-2025-07003",
+   "short": "Lei 7003/2025",
+   "title": "Lei nº 7.003, de 22 de setembro de 2025",
+   "url": "https://sapl.tangaradaserra.mt.leg.br/norma/688",
+   "versions": [
+    {
+     "from": "2025-09-22",
+     "units": 18,
+     "source_url": "https://sapl.tangaradaserra.mt.leg.br/media/sapl/public/normajuridica/2025/688/7003_aut_6864_17_09_2025_pl_285_conselho_municipal_dos_direitos_da_pessoa_com_deficiencia.pdf",
+     "sha256": "9ae7d32bcbcb9dbe3454eb25cfa940fc1c879effc26a81772ef3a5cda89e88ab"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07000",
+   "short": "Lei 7000/2025",
+   "title": "Lei nº 7.000, de 11 de setembro de 2025",
+   "url": "https://sapl.tangaradaserra.mt.leg.br/norma/687",
+   "versions": [
+    {
+     "from": "2025-09-11",
+     "units": 11,
+     "source_url": "https://sapl.tangaradaserra.mt.leg.br/media/sapl/public/normajuridica/2025/687/7000_aut_6852_10_09_2025_pl_288_consolida_leis_3134_2009_6_988_2025.pdf",
+     "sha256": "5b0ed5088ebd67961cf0d12c9a9e92582aba2defa16f3c270c0391acda6516ce"
+    }
+   ]
   }
  ]
 }
