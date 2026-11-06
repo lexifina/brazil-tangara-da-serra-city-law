@@ -56,6 +56,20 @@
      "sha256": "5b0ed5088ebd67961cf0d12c9a9e92582aba2defa16f3c270c0391acda6516ce"
     }
    ]
+  },
+  {
+   "slug": "lc-2025-00337",
+   "short": "LC 337/2025",
+   "title": "Lei Complementar nº 337, de 10 de julho de 2025",
+   "url": "https://sapl.tangaradaserra.mt.leg.br/norma/279",
+   "versions": [
+    {
+     "from": "2025-07-10",
+     "units": 4,
+     "source_url": "https://sapl.tangaradaserra.mt.leg.br/media/sapl/public/normajuridica/2025/279/337_aut_340_plc_11_2025_substitutivo15_altera_o_perimetro_urbano_de_tangara_da_serra.pdf",
+     "sha256": "7a4ec85012a515e8ec068ddfb74dbb96e931b8077587eaa855698de65e836912"
+    }
+   ]
   }
  ]
 }
